@@ -1,0 +1,6 @@
+This project gives you data from health kit for Step, Distance, Heart Rate and burn calorie, User can fetch data by selecting date for each   
+
+
+Language: Swift
+UI fremework: UIKit
+Structure: MVC

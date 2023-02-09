@@ -1,0 +1,6 @@
+- Store username password in iCloud and autofill it when login
+- Suggest strong password when signup
+
+Language: Swift
+UI fremework: UIKit
+Structure: MVC
